@@ -1,6 +1,6 @@
 [package]
 name = "simple-bits"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Stephan van Schaik <stephan@synkhronix.com>"]
 license = "MIT"
